@@ -25,7 +25,7 @@ The same as the second behaviour but using a smart tool.
 
 The robots biuld the first three layers of a jenga tower cooperating and with intermitente trajectories.
 
-https://studio.youtube.com/video/Awp3UeazHoY/edit
+https://youtu.be/Awp3UeazHoY
 
 
 ## Smart Third Behaviour
